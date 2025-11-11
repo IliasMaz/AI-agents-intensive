@@ -1,8 +1,9 @@
 # AI Agents Intensive Course - Projects Repository
 
-A collection of projects and exercises from the ** AI Agents Intensive Course with Google** on Kaggle.
+A collection of projects and exercises from the **AI Agents Intensive Course with Google on Kaggle.**
 
 An intensive online course created by Google's ML researchers and engineers covering:
+
 - Core AI agent components (models, tools, orchestration, memory, evaluation)
 - Practical applications and production-ready systems
 - Hands-on codelabs with Google's Agent Development Kit (ADK)
@@ -10,17 +11,20 @@ An intensive online course created by Google's ML researchers and engineers cove
 ## 📖 Completed Content
 
 ### Agent Basics
+
 Building the first AI agent using Gemini and ADK with Google Search integration for up-to-date information retrieval.
 
 ### Multi-Agent Systems
+
 Introduction to creating teams of specialized agents and exploring different architectural patterns for agent orchestration.
 
 ### Custom Tools & Tool Design
+
 Creating custom tools by converting Python functions into actions that agents can perform. Best practices for effective tool design.
 
 ### MCP & Long-Running Operations
-Integration with Model Context Protocol (MCP) and implementation of long-running operations where agents can pause while waiting for human approval before resuming.
 
+Integration with Model Context Protocol (MCP) and implementation of long-running operations where agents can pause while waiting for human approval before resuming.
 
 ## 🚀 Setup Requirements
 
